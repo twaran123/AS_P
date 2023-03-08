@@ -234,70 +234,54 @@
       "year": "Feb, 2012"
     }
   ],
-  "pubications": [
+  "publications": [
     {
-      "id": 1,
-      "title": "Quantitative Neurotoxicology: Potential role of Artificial Intelligence/Deep learning approach",
-      "date": "2020-11-02",
-      "url": "https://doi.org/10.1002/jat.4098",
-      "Author": "Srivastava A, Hanig JP",
-      "button": "Read more"
+      "pub_id": 1,
+      "title": "Quantitative Neurotoxicology: Potential role of Artificial Intelligence/Deep learning approach.Journal of Applied Toxicology",
+      "date": "2020 Nov 02",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jat.4098",
+      "Author": ["Srivastava A", "Hanig JP"],
+      "button": "DOI:10.1002/jat.4098"
     },
     {
-      "id": 2,
-      "title": "Quantitative Neurotoxicology: An assessment of the neurotoxic profile of Kainic Acid",
-      "date": "2020-05-29",
-      "url": "https://doi.org/10.1177/1091581820928497",
-      "Author": "Srivastava A, Liachenko S, Sarkar S, Paule M, Negi G, Pandey J, Hanig J",
-      "button": "Read more"
+      "pub_id": 2,
+      "title": "Quantitative Neurotoxicology: An assessment of the neurotoxic profile of Kainic Acid.International Journal of Toxicology",
+      "date": "2020 May 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32468881/",
+      "Author": [
+        "Srivastava A",
+        "Liachenko S",
+        "Sarkar S",
+        "Paule M",
+        "Negi G",
+        "Pandey J",
+        "Hanig JP"
+      ],
+      "button": "DOI:10.1177/1091581820928497"
     },
     {
-      "id": 3,
-      "title": "Saccadic Eye Movements in Patients of Young Onset Parkinson’s Disease: A BOLD fMRI study",
+      "pub_id": 3,
+      "title": "Saccadic Eye Movements in Patients of Young Onset Parkinson’s Disease: A BOLD fMRI study. Neuro- Opthlamology",
       "date": "2019",
-      "url": "https://doi.org/10.1080/01658107.2019.1652656",
-      "Author": "Srivastava A, Sharma R, Goyal V, Sood SK, Kumaran S",
-      "button": "Read more"
+      "url": "https://www.tandfonline.com/doi/full/10.1080/01658107.2019.1652656",
+      "Author": ["Srivastava A", "Sharma R", "Goyal V", "Sood SK", "Kumaran S"],
+      "button": "DOI: 10.1080/01658107.2019.1652656"
     },
     {
-      "id": 4,
-      "title": "Relationship between saccade and gait",
-      "date": "2018-09",
-      "url": "",
-      "Author": "Srivastava A, Ahmad OF, Pacia CM, Hallett M, Lungu C",
-      "button": "Read more"
+      "pub_id": 4,
+      "title": "Relationship between saccade and gait. Journal of Movement Disorders",
+      "date": "2018 Sept",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
+      "Author": ["Srivastava A", "Goyal V", "Sood SK", "Sharma R"],
+      "button": "11(3):93-106"
     },
     {
-      "id": 5,
-      "title": "Reduced Saccadic velocity in Patients with Young Onset Parkinson’s Disease",
-      "date": "2018-02",
-      "url": "https://doi.org/10.14802/jmd.18018",
-      "Author": "Srivastava A, Goyal V, Sood SK, Sharma R",
-      "button": "Read more"
-    },
-    {
-      "id": 6,
-      "title": "Cognition and control of saccadic system",
-      "date": "",
-      "url": "",
-      "Author": "Srivastava A, Goyal V, Sood SK, Sharma R",
-      "button": "Read more"
-    },
-    {
-      "id": 7,
-      "title": "Saccadic eye movements in Parkinson's Disease",
-      "date": "2014-05",
-      "url": "https://doi.org/10.4103/0301-4738.133482",
-      "Author": "Srivastava A, Sood SK, Sharma R, Goyal V",
-      "button": "Read more"
-    },
-    {
-      "id": 8,
-      "title": "Mechanism of selective attention: fMRI study of face-word stroop task performance",
-      "date": "2013",
-      "url": "",
-      "Author": "Vivekananth S, Sood SK, Kumaran S, Srivastava A",
-      "button": "Read more"
+      "pub_id": 5,
+      "title": "Reduced Saccadic velocity in Patients with Young Onset Parkinson’s Disease. Neurology, Psychiatry and Brain Research, Volume 27",
+      "date": "February 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
+      "Author": ["Srivastava A", "Goyal V", "Sood SK", "Sharma R"],
+      "button": "doi: 10.14802/jmd.18018"
     }
   ]
 }
