@@ -55,29 +55,32 @@
       "stat_three":" Written and published research work as first author in reputed journals"
     }
   ],
-  "workExperience": [
+   "workExperience": [
     {
-      "Job_id":1,
+      "Job_id": 1,
       "Job_address": "Department of Neurosciences, Lerner Research Institute, Cleveland Clinic, Cleveland,Ohio, USA",
       "Job_date": "May 2021- till date",
       "Job_stat_one": "Involved in studying neuromodulation in patients suffering from movement disorders (Stroke,Parkinson’s disease) enrolled in a clinical trial of deep brain stimulation for motor recovery.",
       "Job_stat_two": "Collaborated closely with a team of three other members",
-      "Job_designation": "Postdoctoral Fellow"
+      "Job_designation": "Postdoctoral Fellow",
+      "url": "https://pbs.twimg.com/profile_images/929088511382343682/regsaLAR_400x400.jpg"
     },
     {
-      "Job_id":2,
+      "Job_id": 2,
       "Job_address": "Office of Testing & Research, Center for Drug Evaluation and Research, U.S. Food andDrug administration (FDA), Silver Spring, Maryland, USA",
       "Job_date": "August 2017 - January 2021",
       "Job_stat_one": "Regulatory neurotoxicology research studying effects of certain neurotoxins on brain",
       "Job_stat_two": "Completed course on Design and Conduct of Clinical Trials",
-      "Job_designation": "Postdoctoral Fellow"
+      "Job_designation": "Postdoctoral Fellow",
+      "url": "https://uploads.mwp.mprod.getusinfo.com/uploads/sites/23/2021/05/fda-logo-1140x684-1.jpg"
     },
     {
-      "Job_id":3,
+      "Job_id": 3,
       "Job_address": "Human Motor Control Section, National Institute of Neurological Disorders and Stroke,National Institutes of Health (NIH), Bethesda, Maryland USA",
       "Job_date": "June 2016 - August 2017",
       "Job_stat_one": "Involved in research studies aimed to characterize human cortical excitability and connectivityusing Transcranial magnetic stimulation (TMS) and Electroencephalography (EEG) in patientswith movement disorders",
-      "Job_designation": "Special Volunteer"
+      "Job_designation": "Special Volunteer",
+      "url": "https://curehht.org/wp-content/uploads/2017/11/NIH-Library-of-Medicine-logo.png"
     }
   ],  "education": [
     {
