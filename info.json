@@ -105,7 +105,7 @@
   "professionalSkills": [
     {
       "skillName": "Techniques",
-      "skillNeed": "EEG, fMRI, electrophysiology,Histopathological analysis of rat brain sections, Neuronal staining, Stereotaxis surgery, animal handling and behavioural testing"
+      "skillNeed": "EEG, fMRI, Electrophysiology, Histopathological analysis of rat brain sections, Neuronal staining, Stereotaxis surgery, animal handling and behavioural testing"
     },
     {
       "skillName": "Familiar with regulatory submissions",
@@ -122,10 +122,6 @@
     {
       "skillName": "Statistical analyses using statistical tools",
       "skillNeed": "SPSS, Sigma stat, Graph pad prism"
-    },
-    {
-      "skillName": "Histopathological analysis of rat brain sections, Neuronal staining, Stereotaxis surgery, animal handling and behavioural testing",
-      "skillNeed": ""
     }
   ], "CoursesandTraning": [
     {
